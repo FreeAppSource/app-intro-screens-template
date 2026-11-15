@@ -1,0 +1,48 @@
+{
+ "app": "App Intro Screens Template",
+ "start": "intro-screen-1",
+ "screens": [
+  {
+   "slug": "intro-screen-1",
+   "name": "Intro Screen 1",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 16,
+   "links": 5
+  },
+  {
+   "slug": "intro-screen-2",
+   "name": "Intro Screen 2",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 16,
+   "links": 6
+  },
+  {
+   "slug": "intro-screen-3",
+   "name": "Intro Screen 3",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 23,
+   "links": 6
+  },
+  {
+   "slug": "intro-screen-4",
+   "name": "Intro Screen 4",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 23,
+   "links": 5
+  }
+ ],
+ "warnings": [],
+ "fontPackages": [
+  "abril-fatface",
+  "inter",
+  "lato"
+ ]
+}
